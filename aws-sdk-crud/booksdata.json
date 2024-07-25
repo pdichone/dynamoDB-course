@@ -1,0 +1,1898 @@
+[
+    {
+        "year": 2021,
+        "title": "The Quantum Thief",
+        "info": {
+            "subtitle": "A Sci-Fi Adventure",
+            "authors": [
+                "Hannu Rajaniemi"
+            ],
+            "short_description": "A mind-bending adventure through space and time.",
+            "page_count": 330,
+            "categories": [
+                "Science Fiction"
+            ],
+            "price": 15.99
+        },
+        "ISBN": "0bfd97d2-47fd-401b-a2be-b073ea255d15"
+    },
+    {
+        "year": 2019,
+        "title": "The Silent Patient",
+        "info": {
+            "subtitle": "A Psychological Thriller",
+            "authors": [
+                "Alex Michaelides"
+            ],
+            "short_description": "A woman\u2019s act of violence against her husband\u2014and the therapist obsessed with uncovering her motive.",
+            "page_count": 336,
+            "categories": [
+                "Thriller",
+                "Mystery"
+            ],
+            "price": 17.99
+        },
+        "ISBN": "3bdec758-dcb1-40d5-a2b0-3e05f8b817ba"
+    },
+    {
+        "year": 2018,
+        "title": "Educated",
+        "info": {
+            "subtitle": "A Memoir",
+            "authors": [
+                "Tara Westover"
+            ],
+            "short_description": "A memoir about a woman who grows up in a strict and abusive household in rural Idaho but eventually escapes to learn about the wider world through education.",
+            "page_count": 352,
+            "categories": [
+                "Biography",
+                "Memoir"
+            ],
+            "price": 18.99
+        },
+        "ISBN": "b3361ad0-7daa-4cd6-b0ff-3f4be10b2a3a"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 4",
+        "info": {
+            "subtitle": "Subtitle for Book 4",
+            "authors": [
+                "Author 4",
+                "Co-Author 4"
+            ],
+            "short_description": "This is a short description for Book 4.",
+            "page_count": 154,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 12.0
+        },
+        "ISBN": "70d4b6f7-d5cc-4abb-aa4f-cedc34ab1f4d"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 5",
+        "info": {
+            "subtitle": "Subtitle for Book 5",
+            "authors": [
+                "Author 5",
+                "Co-Author 5"
+            ],
+            "short_description": "This is a short description for Book 5.",
+            "page_count": 155,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 12.5
+        },
+        "ISBN": "af0ec130-62f1-4b7c-95d2-220274e53f0b"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 6",
+        "info": {
+            "subtitle": "Subtitle for Book 6",
+            "authors": [
+                "Author 6",
+                "Co-Author 6"
+            ],
+            "short_description": "This is a short description for Book 6.",
+            "page_count": 156,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 13.0
+        },
+        "ISBN": "0edc93c0-8c41-438b-a4bf-011256fe268b"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 7",
+        "info": {
+            "subtitle": "Subtitle for Book 7",
+            "authors": [
+                "Author 7",
+                "Co-Author 7"
+            ],
+            "short_description": "This is a short description for Book 7.",
+            "page_count": 157,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 13.5
+        },
+        "ISBN": "68a82b46-f00e-4d01-a50c-bef9615c7dd7"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 8",
+        "info": {
+            "subtitle": "Subtitle for Book 8",
+            "authors": [
+                "Author 8",
+                "Co-Author 8"
+            ],
+            "short_description": "This is a short description for Book 8.",
+            "page_count": 158,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 14.0
+        },
+        "ISBN": "1f589dec-b932-4d8a-a561-b573f1620f2d"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 9",
+        "info": {
+            "subtitle": "Subtitle for Book 9",
+            "authors": [
+                "Author 9",
+                "Co-Author 9"
+            ],
+            "short_description": "This is a short description for Book 9.",
+            "page_count": 159,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 14.5
+        },
+        "ISBN": "51940d55-8212-4fd0-b297-5d08afb268e8"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 10",
+        "info": {
+            "subtitle": "Subtitle for Book 10",
+            "authors": [
+                "Author 10",
+                "Co-Author 10"
+            ],
+            "short_description": "This is a short description for Book 10.",
+            "page_count": 160,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 15.0
+        },
+        "ISBN": "90db9ab8-b7f3-4ec7-9d7f-2979cc5a653a"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 11",
+        "info": {
+            "subtitle": "Subtitle for Book 11",
+            "authors": [
+                "Author 11",
+                "Co-Author 11"
+            ],
+            "short_description": "This is a short description for Book 11.",
+            "page_count": 161,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 15.5
+        },
+        "ISBN": "6fa8a7d9-83c9-4b49-8edf-32ac6959b8c5"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 12",
+        "info": {
+            "subtitle": "Subtitle for Book 12",
+            "authors": [
+                "Author 12",
+                "Co-Author 12"
+            ],
+            "short_description": "This is a short description for Book 12.",
+            "page_count": 162,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 16.0
+        },
+        "ISBN": "a5e437ae-3f07-4c6f-95f1-70993103b642"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 13",
+        "info": {
+            "subtitle": "Subtitle for Book 13",
+            "authors": [
+                "Author 13",
+                "Co-Author 13"
+            ],
+            "short_description": "This is a short description for Book 13.",
+            "page_count": 163,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 16.5
+        },
+        "ISBN": "9d7367e9-eb98-4166-8c61-099af07532e6"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 14",
+        "info": {
+            "subtitle": "Subtitle for Book 14",
+            "authors": [
+                "Author 14",
+                "Co-Author 14"
+            ],
+            "short_description": "This is a short description for Book 14.",
+            "page_count": 164,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 17.0
+        },
+        "ISBN": "4cf87e69-25a1-446a-9ca2-267d6e9d8d3e"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 15",
+        "info": {
+            "subtitle": "Subtitle for Book 15",
+            "authors": [
+                "Author 15",
+                "Co-Author 15"
+            ],
+            "short_description": "This is a short description for Book 15.",
+            "page_count": 165,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 17.5
+        },
+        "ISBN": "9909f29b-17c7-483f-95d2-8bab96d5ec66"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 16",
+        "info": {
+            "subtitle": "Subtitle for Book 16",
+            "authors": [
+                "Author 16",
+                "Co-Author 16"
+            ],
+            "short_description": "This is a short description for Book 16.",
+            "page_count": 166,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 18.0
+        },
+        "ISBN": "33eef813-8e46-4152-ad34-b46348961200"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 17",
+        "info": {
+            "subtitle": "Subtitle for Book 17",
+            "authors": [
+                "Author 17",
+                "Co-Author 17"
+            ],
+            "short_description": "This is a short description for Book 17.",
+            "page_count": 167,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 18.5
+        },
+        "ISBN": "db766276-309e-460a-80f1-840217b67ac6"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 18",
+        "info": {
+            "subtitle": "Subtitle for Book 18",
+            "authors": [
+                "Author 18",
+                "Co-Author 18"
+            ],
+            "short_description": "This is a short description for Book 18.",
+            "page_count": 168,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 19.0
+        },
+        "ISBN": "61548870-5f68-403d-af8c-ca5b777221f1"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 19",
+        "info": {
+            "subtitle": "Subtitle for Book 19",
+            "authors": [
+                "Author 19",
+                "Co-Author 19"
+            ],
+            "short_description": "This is a short description for Book 19.",
+            "page_count": 169,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 19.5
+        },
+        "ISBN": "9809b2c8-3edf-4853-8f3b-2556c60a759d"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 20",
+        "info": {
+            "subtitle": "Subtitle for Book 20",
+            "authors": [
+                "Author 20",
+                "Co-Author 20"
+            ],
+            "short_description": "This is a short description for Book 20.",
+            "page_count": 170,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 20.0
+        },
+        "ISBN": "6c357278-c9e3-43b3-85f8-030175dafa90"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 21",
+        "info": {
+            "subtitle": "Subtitle for Book 21",
+            "authors": [
+                "Author 21",
+                "Co-Author 21"
+            ],
+            "short_description": "This is a short description for Book 21.",
+            "page_count": 171,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 20.5
+        },
+        "ISBN": "1ed2d517-f813-4c65-97e6-06846e270da7"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 22",
+        "info": {
+            "subtitle": "Subtitle for Book 22",
+            "authors": [
+                "Author 22",
+                "Co-Author 22"
+            ],
+            "short_description": "This is a short description for Book 22.",
+            "page_count": 172,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 21.0
+        },
+        "ISBN": "5f776c10-e4bf-438c-8f4b-ea97a82980be"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 23",
+        "info": {
+            "subtitle": "Subtitle for Book 23",
+            "authors": [
+                "Author 23",
+                "Co-Author 23"
+            ],
+            "short_description": "This is a short description for Book 23.",
+            "page_count": 173,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 21.5
+        },
+        "ISBN": "d2402239-5073-4777-a23b-fa1ec6797de0"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 24",
+        "info": {
+            "subtitle": "Subtitle for Book 24",
+            "authors": [
+                "Author 24",
+                "Co-Author 24"
+            ],
+            "short_description": "This is a short description for Book 24.",
+            "page_count": 174,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 22.0
+        },
+        "ISBN": "a8c5a3a2-afa5-477a-a5d9-ca5ccccd2733"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 25",
+        "info": {
+            "subtitle": "Subtitle for Book 25",
+            "authors": [
+                "Author 25",
+                "Co-Author 25"
+            ],
+            "short_description": "This is a short description for Book 25.",
+            "page_count": 175,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 22.5
+        },
+        "ISBN": "91a9b8a5-076c-48f4-8f11-1076897b4392"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 26",
+        "info": {
+            "subtitle": "Subtitle for Book 26",
+            "authors": [
+                "Author 26",
+                "Co-Author 26"
+            ],
+            "short_description": "This is a short description for Book 26.",
+            "page_count": 176,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 23.0
+        },
+        "ISBN": "1589c559-d5d5-4099-bc2c-c51751d6897c"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 27",
+        "info": {
+            "subtitle": "Subtitle for Book 27",
+            "authors": [
+                "Author 27",
+                "Co-Author 27"
+            ],
+            "short_description": "This is a short description for Book 27.",
+            "page_count": 177,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 23.5
+        },
+        "ISBN": "1dba22e3-9280-4bdc-86ec-e5b605ebb245"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 28",
+        "info": {
+            "subtitle": "Subtitle for Book 28",
+            "authors": [
+                "Author 28",
+                "Co-Author 28"
+            ],
+            "short_description": "This is a short description for Book 28.",
+            "page_count": 178,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 24.0
+        },
+        "ISBN": "5eb40d3b-df02-47c6-a594-2eb1e793e6e2"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 29",
+        "info": {
+            "subtitle": "Subtitle for Book 29",
+            "authors": [
+                "Author 29",
+                "Co-Author 29"
+            ],
+            "short_description": "This is a short description for Book 29.",
+            "page_count": 179,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 24.5
+        },
+        "ISBN": "4e90fd92-faaf-44e8-a03a-d5c39c9feae6"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 30",
+        "info": {
+            "subtitle": "Subtitle for Book 30",
+            "authors": [
+                "Author 30",
+                "Co-Author 30"
+            ],
+            "short_description": "This is a short description for Book 30.",
+            "page_count": 180,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 25.0
+        },
+        "ISBN": "83c44afd-8b97-4577-89ca-11acb6dcaacc"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 31",
+        "info": {
+            "subtitle": "Subtitle for Book 31",
+            "authors": [
+                "Author 31",
+                "Co-Author 31"
+            ],
+            "short_description": "This is a short description for Book 31.",
+            "page_count": 181,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 25.5
+        },
+        "ISBN": "d06cf8bd-bb59-457e-9f7a-9e16be5020b8"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 32",
+        "info": {
+            "subtitle": "Subtitle for Book 32",
+            "authors": [
+                "Author 32",
+                "Co-Author 32"
+            ],
+            "short_description": "This is a short description for Book 32.",
+            "page_count": 182,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 26.0
+        },
+        "ISBN": "b39bab20-44e2-4187-b3ef-f870c6438b90"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 33",
+        "info": {
+            "subtitle": "Subtitle for Book 33",
+            "authors": [
+                "Author 33",
+                "Co-Author 33"
+            ],
+            "short_description": "This is a short description for Book 33.",
+            "page_count": 183,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 26.5
+        },
+        "ISBN": "8da7ce40-4ea0-4e26-9114-9d3bc10df484"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 34",
+        "info": {
+            "subtitle": "Subtitle for Book 34",
+            "authors": [
+                "Author 34",
+                "Co-Author 34"
+            ],
+            "short_description": "This is a short description for Book 34.",
+            "page_count": 184,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 27.0
+        },
+        "ISBN": "db3e3bc2-87e4-42bf-b225-2af1941ac3de"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 35",
+        "info": {
+            "subtitle": "Subtitle for Book 35",
+            "authors": [
+                "Author 35",
+                "Co-Author 35"
+            ],
+            "short_description": "This is a short description for Book 35.",
+            "page_count": 185,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 27.5
+        },
+        "ISBN": "622cd5d7-8b70-41f7-ae72-3251808dc7df"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 36",
+        "info": {
+            "subtitle": "Subtitle for Book 36",
+            "authors": [
+                "Author 36",
+                "Co-Author 36"
+            ],
+            "short_description": "This is a short description for Book 36.",
+            "page_count": 186,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 28.0
+        },
+        "ISBN": "cde5b4f2-31fb-4ed0-bd19-2955613709f7"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 37",
+        "info": {
+            "subtitle": "Subtitle for Book 37",
+            "authors": [
+                "Author 37",
+                "Co-Author 37"
+            ],
+            "short_description": "This is a short description for Book 37.",
+            "page_count": 187,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 28.5
+        },
+        "ISBN": "44034b61-f559-40f4-b5d0-71015c6ef212"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 38",
+        "info": {
+            "subtitle": "Subtitle for Book 38",
+            "authors": [
+                "Author 38",
+                "Co-Author 38"
+            ],
+            "short_description": "This is a short description for Book 38.",
+            "page_count": 188,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 29.0
+        },
+        "ISBN": "324602e6-2da6-40bb-a1c5-ae7291578ac3"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 39",
+        "info": {
+            "subtitle": "Subtitle for Book 39",
+            "authors": [
+                "Author 39",
+                "Co-Author 39"
+            ],
+            "short_description": "This is a short description for Book 39.",
+            "page_count": 189,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 29.5
+        },
+        "ISBN": "a3897c5c-4494-4aff-8eee-06717fff7781"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 40",
+        "info": {
+            "subtitle": "Subtitle for Book 40",
+            "authors": [
+                "Author 40",
+                "Co-Author 40"
+            ],
+            "short_description": "This is a short description for Book 40.",
+            "page_count": 190,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 30.0
+        },
+        "ISBN": "ebb03cf6-f568-42a6-b188-eb6447ce7394"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 41",
+        "info": {
+            "subtitle": "Subtitle for Book 41",
+            "authors": [
+                "Author 41",
+                "Co-Author 41"
+            ],
+            "short_description": "This is a short description for Book 41.",
+            "page_count": 191,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 30.5
+        },
+        "ISBN": "c3401746-04a7-43ae-875d-549bcfd4943b"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 42",
+        "info": {
+            "subtitle": "Subtitle for Book 42",
+            "authors": [
+                "Author 42",
+                "Co-Author 42"
+            ],
+            "short_description": "This is a short description for Book 42.",
+            "page_count": 192,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 31.0
+        },
+        "ISBN": "a6e543cc-efe3-4760-9a45-020fcdb8eac1"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 43",
+        "info": {
+            "subtitle": "Subtitle for Book 43",
+            "authors": [
+                "Author 43",
+                "Co-Author 43"
+            ],
+            "short_description": "This is a short description for Book 43.",
+            "page_count": 193,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 31.5
+        },
+        "ISBN": "d2cac291-d2d1-4348-b622-cd52cb757556"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 44",
+        "info": {
+            "subtitle": "Subtitle for Book 44",
+            "authors": [
+                "Author 44",
+                "Co-Author 44"
+            ],
+            "short_description": "This is a short description for Book 44.",
+            "page_count": 194,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 32.0
+        },
+        "ISBN": "8597aa5b-d8db-4935-995d-6cfad2ae6604"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 45",
+        "info": {
+            "subtitle": "Subtitle for Book 45",
+            "authors": [
+                "Author 45",
+                "Co-Author 45"
+            ],
+            "short_description": "This is a short description for Book 45.",
+            "page_count": 195,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 32.5
+        },
+        "ISBN": "d71f93b3-02c0-49c7-9738-c039866b1120"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 46",
+        "info": {
+            "subtitle": "Subtitle for Book 46",
+            "authors": [
+                "Author 46",
+                "Co-Author 46"
+            ],
+            "short_description": "This is a short description for Book 46.",
+            "page_count": 196,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 33.0
+        },
+        "ISBN": "47a28924-5454-4d53-9409-de497042daa9"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 47",
+        "info": {
+            "subtitle": "Subtitle for Book 47",
+            "authors": [
+                "Author 47",
+                "Co-Author 47"
+            ],
+            "short_description": "This is a short description for Book 47.",
+            "page_count": 197,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 33.5
+        },
+        "ISBN": "85977e7b-ae9f-4956-be7b-c0b1812d3363"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 48",
+        "info": {
+            "subtitle": "Subtitle for Book 48",
+            "authors": [
+                "Author 48",
+                "Co-Author 48"
+            ],
+            "short_description": "This is a short description for Book 48.",
+            "page_count": 198,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 34.0
+        },
+        "ISBN": "d1110a3c-d84c-43dc-a622-32b9ca0e4a24"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 49",
+        "info": {
+            "subtitle": "Subtitle for Book 49",
+            "authors": [
+                "Author 49",
+                "Co-Author 49"
+            ],
+            "short_description": "This is a short description for Book 49.",
+            "page_count": 199,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 34.5
+        },
+        "ISBN": "26d84e2f-800c-4d45-b2c6-b102b5ab9f90"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 50",
+        "info": {
+            "subtitle": "Subtitle for Book 50",
+            "authors": [
+                "Author 50",
+                "Co-Author 50"
+            ],
+            "short_description": "This is a short description for Book 50.",
+            "page_count": 200,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 35.0
+        },
+        "ISBN": "24dfa674-a75f-4bb9-bb73-175808bb1565"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 51",
+        "info": {
+            "subtitle": "Subtitle for Book 51",
+            "authors": [
+                "Author 51",
+                "Co-Author 51"
+            ],
+            "short_description": "This is a short description for Book 51.",
+            "page_count": 201,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 35.5
+        },
+        "ISBN": "f9506fed-638b-4dec-845a-286058e56178"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 52",
+        "info": {
+            "subtitle": "Subtitle for Book 52",
+            "authors": [
+                "Author 52",
+                "Co-Author 52"
+            ],
+            "short_description": "This is a short description for Book 52.",
+            "page_count": 202,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 36.0
+        },
+        "ISBN": "38fa2cdb-81b4-42ad-8ef9-a71ff265c7af"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 53",
+        "info": {
+            "subtitle": "Subtitle for Book 53",
+            "authors": [
+                "Author 53",
+                "Co-Author 53"
+            ],
+            "short_description": "This is a short description for Book 53.",
+            "page_count": 203,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 36.5
+        },
+        "ISBN": "2098021d-6e67-4b02-aaa6-1d2e33961b15"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 54",
+        "info": {
+            "subtitle": "Subtitle for Book 54",
+            "authors": [
+                "Author 54",
+                "Co-Author 54"
+            ],
+            "short_description": "This is a short description for Book 54.",
+            "page_count": 204,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 37.0
+        },
+        "ISBN": "80c71c1c-6317-4eb0-afe2-1518b1ca3dc5"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 55",
+        "info": {
+            "subtitle": "Subtitle for Book 55",
+            "authors": [
+                "Author 55",
+                "Co-Author 55"
+            ],
+            "short_description": "This is a short description for Book 55.",
+            "page_count": 205,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 37.5
+        },
+        "ISBN": "1673d90f-2d2a-4dae-a90c-58ade0d34183"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 56",
+        "info": {
+            "subtitle": "Subtitle for Book 56",
+            "authors": [
+                "Author 56",
+                "Co-Author 56"
+            ],
+            "short_description": "This is a short description for Book 56.",
+            "page_count": 206,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 38.0
+        },
+        "ISBN": "98ce60b9-1fd4-4653-842e-dd6e4b0acc0c"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 57",
+        "info": {
+            "subtitle": "Subtitle for Book 57",
+            "authors": [
+                "Author 57",
+                "Co-Author 57"
+            ],
+            "short_description": "This is a short description for Book 57.",
+            "page_count": 207,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 38.5
+        },
+        "ISBN": "abe73a2b-fb85-471d-acb5-7f2d5c561161"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 58",
+        "info": {
+            "subtitle": "Subtitle for Book 58",
+            "authors": [
+                "Author 58",
+                "Co-Author 58"
+            ],
+            "short_description": "This is a short description for Book 58.",
+            "page_count": 208,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 39.0
+        },
+        "ISBN": "b831c303-0e6c-4317-9f4a-0e7f9e055536"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 59",
+        "info": {
+            "subtitle": "Subtitle for Book 59",
+            "authors": [
+                "Author 59",
+                "Co-Author 59"
+            ],
+            "short_description": "This is a short description for Book 59.",
+            "page_count": 209,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 39.5
+        },
+        "ISBN": "df0819b4-7be7-4894-80ed-67d749cf42f6"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 60",
+        "info": {
+            "subtitle": "Subtitle for Book 60",
+            "authors": [
+                "Author 60",
+                "Co-Author 60"
+            ],
+            "short_description": "This is a short description for Book 60.",
+            "page_count": 210,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 40.0
+        },
+        "ISBN": "e865112d-7dc5-4fe1-a450-8b98d2f9e25d"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 61",
+        "info": {
+            "subtitle": "Subtitle for Book 61",
+            "authors": [
+                "Author 61",
+                "Co-Author 61"
+            ],
+            "short_description": "This is a short description for Book 61.",
+            "page_count": 211,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 40.5
+        },
+        "ISBN": "27ac7cf1-95ff-4e2d-95d7-25f4c4bc9ee3"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 62",
+        "info": {
+            "subtitle": "Subtitle for Book 62",
+            "authors": [
+                "Author 62",
+                "Co-Author 62"
+            ],
+            "short_description": "This is a short description for Book 62.",
+            "page_count": 212,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 41.0
+        },
+        "ISBN": "e23f0d91-07f5-48e1-9f0d-6d7d35470f56"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 63",
+        "info": {
+            "subtitle": "Subtitle for Book 63",
+            "authors": [
+                "Author 63",
+                "Co-Author 63"
+            ],
+            "short_description": "This is a short description for Book 63.",
+            "page_count": 213,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 41.5
+        },
+        "ISBN": "13ef137b-eaf7-4846-af5e-a29e94bb8b07"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 64",
+        "info": {
+            "subtitle": "Subtitle for Book 64",
+            "authors": [
+                "Author 64",
+                "Co-Author 64"
+            ],
+            "short_description": "This is a short description for Book 64.",
+            "page_count": 214,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 42.0
+        },
+        "ISBN": "12db877d-4b96-4f35-a2fe-e92b0cab8182"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 65",
+        "info": {
+            "subtitle": "Subtitle for Book 65",
+            "authors": [
+                "Author 65",
+                "Co-Author 65"
+            ],
+            "short_description": "This is a short description for Book 65.",
+            "page_count": 215,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 42.5
+        },
+        "ISBN": "35be99c9-5891-45ba-887b-dd188b704d67"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 66",
+        "info": {
+            "subtitle": "Subtitle for Book 66",
+            "authors": [
+                "Author 66",
+                "Co-Author 66"
+            ],
+            "short_description": "This is a short description for Book 66.",
+            "page_count": 216,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 43.0
+        },
+        "ISBN": "9742e604-1e09-4a40-a60c-4a1c0250f949"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 67",
+        "info": {
+            "subtitle": "Subtitle for Book 67",
+            "authors": [
+                "Author 67",
+                "Co-Author 67"
+            ],
+            "short_description": "This is a short description for Book 67.",
+            "page_count": 217,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 43.5
+        },
+        "ISBN": "49533b21-29c8-418a-ab45-b6cc78ab2c21"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 68",
+        "info": {
+            "subtitle": "Subtitle for Book 68",
+            "authors": [
+                "Author 68",
+                "Co-Author 68"
+            ],
+            "short_description": "This is a short description for Book 68.",
+            "page_count": 218,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 44.0
+        },
+        "ISBN": "d74cb6a7-4795-42ce-929a-d6c9c383cc6c"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 69",
+        "info": {
+            "subtitle": "Subtitle for Book 69",
+            "authors": [
+                "Author 69",
+                "Co-Author 69"
+            ],
+            "short_description": "This is a short description for Book 69.",
+            "page_count": 219,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 44.5
+        },
+        "ISBN": "5a836775-c33b-4584-8b02-031acbbfe8c6"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 70",
+        "info": {
+            "subtitle": "Subtitle for Book 70",
+            "authors": [
+                "Author 70",
+                "Co-Author 70"
+            ],
+            "short_description": "This is a short description for Book 70.",
+            "page_count": 220,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 45.0
+        },
+        "ISBN": "1b44b8e5-c750-4a41-bcbc-78def7e9663b"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 71",
+        "info": {
+            "subtitle": "Subtitle for Book 71",
+            "authors": [
+                "Author 71",
+                "Co-Author 71"
+            ],
+            "short_description": "This is a short description for Book 71.",
+            "page_count": 221,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 45.5
+        },
+        "ISBN": "4307e22c-7e0d-4642-b548-a4b73c539df8"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 72",
+        "info": {
+            "subtitle": "Subtitle for Book 72",
+            "authors": [
+                "Author 72",
+                "Co-Author 72"
+            ],
+            "short_description": "This is a short description for Book 72.",
+            "page_count": 222,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 46.0
+        },
+        "ISBN": "1f19e8c3-1d2e-4987-850f-68567971ef6e"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 73",
+        "info": {
+            "subtitle": "Subtitle for Book 73",
+            "authors": [
+                "Author 73",
+                "Co-Author 73"
+            ],
+            "short_description": "This is a short description for Book 73.",
+            "page_count": 223,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 46.5
+        },
+        "ISBN": "fff08026-b96a-4f80-99e3-49714a3edab2"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 74",
+        "info": {
+            "subtitle": "Subtitle for Book 74",
+            "authors": [
+                "Author 74",
+                "Co-Author 74"
+            ],
+            "short_description": "This is a short description for Book 74.",
+            "page_count": 224,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 47.0
+        },
+        "ISBN": "10a1865f-caec-439e-bf58-7f1efb27bfbf"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 75",
+        "info": {
+            "subtitle": "Subtitle for Book 75",
+            "authors": [
+                "Author 75",
+                "Co-Author 75"
+            ],
+            "short_description": "This is a short description for Book 75.",
+            "page_count": 225,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 47.5
+        },
+        "ISBN": "fb1f9a99-e404-4175-9643-5c2bed3954a2"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 76",
+        "info": {
+            "subtitle": "Subtitle for Book 76",
+            "authors": [
+                "Author 76",
+                "Co-Author 76"
+            ],
+            "short_description": "This is a short description for Book 76.",
+            "page_count": 226,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 48.0
+        },
+        "ISBN": "b5f09665-ab98-453e-8a60-7dd172600ea4"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 77",
+        "info": {
+            "subtitle": "Subtitle for Book 77",
+            "authors": [
+                "Author 77",
+                "Co-Author 77"
+            ],
+            "short_description": "This is a short description for Book 77.",
+            "page_count": 227,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 48.5
+        },
+        "ISBN": "c8e1d59b-3a24-440e-8d40-36bc36528507"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 78",
+        "info": {
+            "subtitle": "Subtitle for Book 78",
+            "authors": [
+                "Author 78",
+                "Co-Author 78"
+            ],
+            "short_description": "This is a short description for Book 78.",
+            "page_count": 228,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 49.0
+        },
+        "ISBN": "27bcae92-928b-4f9b-86cb-b2bd085e493d"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 79",
+        "info": {
+            "subtitle": "Subtitle for Book 79",
+            "authors": [
+                "Author 79",
+                "Co-Author 79"
+            ],
+            "short_description": "This is a short description for Book 79.",
+            "page_count": 229,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 49.5
+        },
+        "ISBN": "cf0dfd90-d8d8-4147-9754-73bf9b47efaa"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 80",
+        "info": {
+            "subtitle": "Subtitle for Book 80",
+            "authors": [
+                "Author 80",
+                "Co-Author 80"
+            ],
+            "short_description": "This is a short description for Book 80.",
+            "page_count": 230,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 50.0
+        },
+        "ISBN": "b5b4180c-f029-4359-94eb-343409ee0d42"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 81",
+        "info": {
+            "subtitle": "Subtitle for Book 81",
+            "authors": [
+                "Author 81",
+                "Co-Author 81"
+            ],
+            "short_description": "This is a short description for Book 81.",
+            "page_count": 231,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 50.5
+        },
+        "ISBN": "31bf844d-24f4-49e3-b21b-8e9ea5c6aaf7"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 82",
+        "info": {
+            "subtitle": "Subtitle for Book 82",
+            "authors": [
+                "Author 82",
+                "Co-Author 82"
+            ],
+            "short_description": "This is a short description for Book 82.",
+            "page_count": 232,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 51.0
+        },
+        "ISBN": "d76d7567-11f6-475f-8a98-784cacd9f4fc"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 83",
+        "info": {
+            "subtitle": "Subtitle for Book 83",
+            "authors": [
+                "Author 83",
+                "Co-Author 83"
+            ],
+            "short_description": "This is a short description for Book 83.",
+            "page_count": 233,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 51.5
+        },
+        "ISBN": "047c59ea-5c9a-4287-ad75-9bcb36fb1403"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 84",
+        "info": {
+            "subtitle": "Subtitle for Book 84",
+            "authors": [
+                "Author 84",
+                "Co-Author 84"
+            ],
+            "short_description": "This is a short description for Book 84.",
+            "page_count": 234,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 52.0
+        },
+        "ISBN": "3ce23913-ef4f-4c5e-b0ab-ef18e500c4c8"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 85",
+        "info": {
+            "subtitle": "Subtitle for Book 85",
+            "authors": [
+                "Author 85",
+                "Co-Author 85"
+            ],
+            "short_description": "This is a short description for Book 85.",
+            "page_count": 235,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 52.5
+        },
+        "ISBN": "5d6790e9-2332-4dc2-bdd2-9cbe7c7e7205"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 86",
+        "info": {
+            "subtitle": "Subtitle for Book 86",
+            "authors": [
+                "Author 86",
+                "Co-Author 86"
+            ],
+            "short_description": "This is a short description for Book 86.",
+            "page_count": 236,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 53.0
+        },
+        "ISBN": "7a8d58b3-0405-45bc-b081-9a9ffe6b6a6a"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 87",
+        "info": {
+            "subtitle": "Subtitle for Book 87",
+            "authors": [
+                "Author 87",
+                "Co-Author 87"
+            ],
+            "short_description": "This is a short description for Book 87.",
+            "page_count": 237,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 53.5
+        },
+        "ISBN": "fcaa09f7-c365-4369-8b58-1c60881e48a8"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 88",
+        "info": {
+            "subtitle": "Subtitle for Book 88",
+            "authors": [
+                "Author 88",
+                "Co-Author 88"
+            ],
+            "short_description": "This is a short description for Book 88.",
+            "page_count": 238,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 54.0
+        },
+        "ISBN": "ad56d8f4-6d2e-4103-8022-77ab62d66165"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 89",
+        "info": {
+            "subtitle": "Subtitle for Book 89",
+            "authors": [
+                "Author 89",
+                "Co-Author 89"
+            ],
+            "short_description": "This is a short description for Book 89.",
+            "page_count": 239,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 54.5
+        },
+        "ISBN": "e4f1cbeb-23a3-4f69-a3d6-8c5b0c68289b"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 90",
+        "info": {
+            "subtitle": "Subtitle for Book 90",
+            "authors": [
+                "Author 90",
+                "Co-Author 90"
+            ],
+            "short_description": "This is a short description for Book 90.",
+            "page_count": 240,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 55.0
+        },
+        "ISBN": "fad925d3-2835-45f5-8884-06770d96d5d8"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 91",
+        "info": {
+            "subtitle": "Subtitle for Book 91",
+            "authors": [
+                "Author 91",
+                "Co-Author 91"
+            ],
+            "short_description": "This is a short description for Book 91.",
+            "page_count": 241,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 55.5
+        },
+        "ISBN": "9971c595-cf0e-43a5-8e7d-b72ce2026a92"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 92",
+        "info": {
+            "subtitle": "Subtitle for Book 92",
+            "authors": [
+                "Author 92",
+                "Co-Author 92"
+            ],
+            "short_description": "This is a short description for Book 92.",
+            "page_count": 242,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 56.0
+        },
+        "ISBN": "04bf6358-6c37-43aa-9e86-5504631a333e"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 93",
+        "info": {
+            "subtitle": "Subtitle for Book 93",
+            "authors": [
+                "Author 93",
+                "Co-Author 93"
+            ],
+            "short_description": "This is a short description for Book 93.",
+            "page_count": 243,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 56.5
+        },
+        "ISBN": "9d747e14-0005-4ec0-af4a-249c992119de"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 94",
+        "info": {
+            "subtitle": "Subtitle for Book 94",
+            "authors": [
+                "Author 94",
+                "Co-Author 94"
+            ],
+            "short_description": "This is a short description for Book 94.",
+            "page_count": 244,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 57.0
+        },
+        "ISBN": "345c9ec8-b204-4677-9a87-dd726031742c"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 95",
+        "info": {
+            "subtitle": "Subtitle for Book 95",
+            "authors": [
+                "Author 95",
+                "Co-Author 95"
+            ],
+            "short_description": "This is a short description for Book 95.",
+            "page_count": 245,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 57.5
+        },
+        "ISBN": "fee9b2af-10b7-4b83-8268-99404e903f72"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 96",
+        "info": {
+            "subtitle": "Subtitle for Book 96",
+            "authors": [
+                "Author 96",
+                "Co-Author 96"
+            ],
+            "short_description": "This is a short description for Book 96.",
+            "page_count": 246,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 58.0
+        },
+        "ISBN": "472d4f1d-310a-497a-921c-08c95a80f932"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 97",
+        "info": {
+            "subtitle": "Subtitle for Book 97",
+            "authors": [
+                "Author 97",
+                "Co-Author 97"
+            ],
+            "short_description": "This is a short description for Book 97.",
+            "page_count": 247,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 58.5
+        },
+        "ISBN": "4a7051ca-8797-4b94-ac97-07d7a4976f68"
+    },
+    {
+        "year": 2022,
+        "title": "Book Title 98",
+        "info": {
+            "subtitle": "Subtitle for Book 98",
+            "authors": [
+                "Author 98",
+                "Co-Author 98"
+            ],
+            "short_description": "This is a short description for Book 98.",
+            "page_count": 248,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 59.0
+        },
+        "ISBN": "05097d06-450b-423c-a6eb-ba399f97626c"
+    },
+    {
+        "year": 2020,
+        "title": "Book Title 99",
+        "info": {
+            "subtitle": "Subtitle for Book 99",
+            "authors": [
+                "Author 99",
+                "Co-Author 99"
+            ],
+            "short_description": "This is a short description for Book 99.",
+            "page_count": 249,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ],
+            "price": 59.5
+        },
+        "ISBN": "cd68b38e-c7e9-4995-8cfd-e427087f12a8"
+    },
+    {
+        "year": 2021,
+        "title": "Book Title 100",
+        "info": {
+            "subtitle": "Subtitle for Book 100",
+            "authors": [
+                "Author 100",
+                "Co-Author 100"
+            ],
+            "short_description": "This is a short description for Book 100.",
+            "page_count": 150,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ],
+            "price": 60.0
+        },
+        "ISBN": "b054bd43-4154-40d4-b3e3-30e71af9e255"
+    }
+]
