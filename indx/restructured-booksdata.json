@@ -1,0 +1,1801 @@
+[
+    {
+        "ISBN": "4c7368b4-f3fb-484d-8e9f-848560715692",
+        "Title": "The Quantum Thief",
+        "Year": 2021,
+        "Price": 15.99,
+        "Info": {
+            "subtitle": "A Sci-Fi Adventure",
+            "authors": [
+                "Hannu Rajaniemi"
+            ],
+            "short_description": "A mind-bending adventure through space and time.",
+            "page_count": 330,
+            "categories": [
+                "Science Fiction"
+            ]
+        }
+    },
+    {
+        "ISBN": "99764a0c-beca-4a3a-8d52-52a244e4f131",
+        "Title": "The Silent Patient",
+        "Year": 2019,
+        "Price": 17.99,
+        "Info": {
+            "subtitle": "A Psychological Thriller",
+            "authors": [
+                "Alex Michaelides"
+            ],
+            "short_description": "A woman\u2019s act of violence against her husband\u2014and the therapist obsessed with uncovering her motive.",
+            "page_count": 336,
+            "categories": [
+                "Thriller",
+                "Mystery"
+            ]
+        }
+    },
+    {
+        "ISBN": "e2aa3d53-c82e-40f3-8840-d5d80f9f8c6b",
+        "Title": "Educated",
+        "Year": 2018,
+        "Price": 18.99,
+        "Info": {
+            "subtitle": "A Memoir",
+            "authors": [
+                "Tara Westover"
+            ],
+            "short_description": "A memoir about a woman who grows up in a strict and abusive household in rural Idaho but eventually escapes to learn about the wider world through education.",
+            "page_count": 352,
+            "categories": [
+                "Biography",
+                "Memoir"
+            ]
+        }
+    },
+    {
+        "ISBN": "01f2b7e3-28b7-4840-9178-37c252b926d1",
+        "Title": "Sample Book Title 4",
+        "Year": 2020,
+        "Price": 12.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 4",
+            "authors": [
+                "Author 4"
+            ],
+            "short_description": "This is a short description for Sample Book 4.",
+            "page_count": 154,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "e99d7edd-b121-4331-9edf-140d3c3fd10e",
+        "Title": "Sample Book Title 5",
+        "Year": 2020,
+        "Price": 12.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 5",
+            "authors": [
+                "Author 5"
+            ],
+            "short_description": "This is a short description for Sample Book 5.",
+            "page_count": 155,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "28cf5e8d-9965-453f-b8bf-ba28ce92f443",
+        "Title": "Sample Book Title 6",
+        "Year": 2020,
+        "Price": 13.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 6",
+            "authors": [
+                "Author 6"
+            ],
+            "short_description": "This is a short description for Sample Book 6.",
+            "page_count": 156,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "6d80b15c-7694-4e08-97de-c61c6caa8586",
+        "Title": "Sample Book Title 7",
+        "Year": 2020,
+        "Price": 13.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 7",
+            "authors": [
+                "Author 7"
+            ],
+            "short_description": "This is a short description for Sample Book 7.",
+            "page_count": 157,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "89bd8a15-3ab1-4475-a47b-0b79d85ed30b",
+        "Title": "Sample Book Title 8",
+        "Year": 2020,
+        "Price": 14.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 8",
+            "authors": [
+                "Author 8"
+            ],
+            "short_description": "This is a short description for Sample Book 8.",
+            "page_count": 158,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "6552e93f-e669-4601-b1e7-59d003e1fc88",
+        "Title": "Sample Book Title 9",
+        "Year": 2020,
+        "Price": 14.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 9",
+            "authors": [
+                "Author 9"
+            ],
+            "short_description": "This is a short description for Sample Book 9.",
+            "page_count": 159,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "9e8ecc0f-da5c-49d8-8fee-a76a82ca21f7",
+        "Title": "Sample Book Title 10",
+        "Year": 2020,
+        "Price": 15.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 10",
+            "authors": [
+                "Author 10"
+            ],
+            "short_description": "This is a short description for Sample Book 10.",
+            "page_count": 160,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "546ddac7-22da-4c19-8ec3-21ce41721f66",
+        "Title": "Sample Book Title 11",
+        "Year": 2020,
+        "Price": 15.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 11",
+            "authors": [
+                "Author 11"
+            ],
+            "short_description": "This is a short description for Sample Book 11.",
+            "page_count": 161,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "61ec270a-9aea-4b31-be93-0c6fa7ccf33b",
+        "Title": "Sample Book Title 12",
+        "Year": 2020,
+        "Price": 16.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 12",
+            "authors": [
+                "Author 12"
+            ],
+            "short_description": "This is a short description for Sample Book 12.",
+            "page_count": 162,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "9b7aa500-43f5-4537-a6fc-8f4bf46a73b0",
+        "Title": "Sample Book Title 13",
+        "Year": 2020,
+        "Price": 16.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 13",
+            "authors": [
+                "Author 13"
+            ],
+            "short_description": "This is a short description for Sample Book 13.",
+            "page_count": 163,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "e52b3295-fe6a-4591-82c3-f233448aa5a1",
+        "Title": "Sample Book Title 14",
+        "Year": 2020,
+        "Price": 17.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 14",
+            "authors": [
+                "Author 14"
+            ],
+            "short_description": "This is a short description for Sample Book 14.",
+            "page_count": 164,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "61fa5c31-3b8a-4878-9a38-574905c5ad4e",
+        "Title": "Sample Book Title 15",
+        "Year": 2020,
+        "Price": 17.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 15",
+            "authors": [
+                "Author 15"
+            ],
+            "short_description": "This is a short description for Sample Book 15.",
+            "page_count": 165,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "eba74c9e-cc8c-449d-a16f-2cbede4657dd",
+        "Title": "Sample Book Title 16",
+        "Year": 2020,
+        "Price": 18.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 16",
+            "authors": [
+                "Author 16"
+            ],
+            "short_description": "This is a short description for Sample Book 16.",
+            "page_count": 166,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "6344178a-33e2-4df9-ac18-3d3d2cf9718e",
+        "Title": "Sample Book Title 17",
+        "Year": 2020,
+        "Price": 18.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 17",
+            "authors": [
+                "Author 17"
+            ],
+            "short_description": "This is a short description for Sample Book 17.",
+            "page_count": 167,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "73e3ea93-727a-4638-bd5f-e62d85b62a49",
+        "Title": "Sample Book Title 18",
+        "Year": 2020,
+        "Price": 19.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 18",
+            "authors": [
+                "Author 18"
+            ],
+            "short_description": "This is a short description for Sample Book 18.",
+            "page_count": 168,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "d0ba9129-fc36-4a2b-a23b-cf6ee2a3d150",
+        "Title": "Sample Book Title 19",
+        "Year": 2020,
+        "Price": 19.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 19",
+            "authors": [
+                "Author 19"
+            ],
+            "short_description": "This is a short description for Sample Book 19.",
+            "page_count": 169,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "9197ea7c-96d2-4010-943b-8a569cfdf2e2",
+        "Title": "Sample Book Title 20",
+        "Year": 2020,
+        "Price": 20.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 20",
+            "authors": [
+                "Author 20"
+            ],
+            "short_description": "This is a short description for Sample Book 20.",
+            "page_count": 170,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "1b70a4b9-21f2-46a3-9cb4-f73e1d1f82ee",
+        "Title": "Sample Book Title 21",
+        "Year": 2020,
+        "Price": 20.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 21",
+            "authors": [
+                "Author 21"
+            ],
+            "short_description": "This is a short description for Sample Book 21.",
+            "page_count": 171,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "7b02607c-6589-4aea-9fa0-03af9985c864",
+        "Title": "Sample Book Title 22",
+        "Year": 2020,
+        "Price": 21.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 22",
+            "authors": [
+                "Author 22"
+            ],
+            "short_description": "This is a short description for Sample Book 22.",
+            "page_count": 172,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "29c8d74d-a8bb-470f-afc1-253cb5b87f65",
+        "Title": "Sample Book Title 23",
+        "Year": 2020,
+        "Price": 21.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 23",
+            "authors": [
+                "Author 23"
+            ],
+            "short_description": "This is a short description for Sample Book 23.",
+            "page_count": 173,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "871a937a-1c64-4829-bf4d-d329153678f2",
+        "Title": "Sample Book Title 24",
+        "Year": 2020,
+        "Price": 22.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 24",
+            "authors": [
+                "Author 24"
+            ],
+            "short_description": "This is a short description for Sample Book 24.",
+            "page_count": 174,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "55fb59ce-4a11-4f68-b228-800f2ad14bea",
+        "Title": "Sample Book Title 25",
+        "Year": 2020,
+        "Price": 22.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 25",
+            "authors": [
+                "Author 25"
+            ],
+            "short_description": "This is a short description for Sample Book 25.",
+            "page_count": 175,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "28e13564-1fbb-4dbf-9add-25a5e020d14e",
+        "Title": "Sample Book Title 26",
+        "Year": 2020,
+        "Price": 23.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 26",
+            "authors": [
+                "Author 26"
+            ],
+            "short_description": "This is a short description for Sample Book 26.",
+            "page_count": 176,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "bff8a99c-3362-4797-9bb5-f91e4cd222ff",
+        "Title": "Sample Book Title 27",
+        "Year": 2020,
+        "Price": 23.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 27",
+            "authors": [
+                "Author 27"
+            ],
+            "short_description": "This is a short description for Sample Book 27.",
+            "page_count": 177,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "0db2fd2a-3753-41ea-8726-79225a88d1fb",
+        "Title": "Sample Book Title 28",
+        "Year": 2020,
+        "Price": 24.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 28",
+            "authors": [
+                "Author 28"
+            ],
+            "short_description": "This is a short description for Sample Book 28.",
+            "page_count": 178,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "b4e0622f-eff6-46d3-9ef6-011d2347dc29",
+        "Title": "Sample Book Title 29",
+        "Year": 2020,
+        "Price": 24.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 29",
+            "authors": [
+                "Author 29"
+            ],
+            "short_description": "This is a short description for Sample Book 29.",
+            "page_count": 179,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "36860f4f-8f67-4d29-8555-df17ea792587",
+        "Title": "Sample Book Title 30",
+        "Year": 2020,
+        "Price": 25.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 30",
+            "authors": [
+                "Author 30"
+            ],
+            "short_description": "This is a short description for Sample Book 30.",
+            "page_count": 180,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "e7912f0a-9946-48af-93b1-5ef93e71c68e",
+        "Title": "Sample Book Title 31",
+        "Year": 2020,
+        "Price": 25.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 31",
+            "authors": [
+                "Author 31"
+            ],
+            "short_description": "This is a short description for Sample Book 31.",
+            "page_count": 181,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "1524cc3f-ab49-4a7f-bf0a-3d352ef51261",
+        "Title": "Sample Book Title 32",
+        "Year": 2020,
+        "Price": 26.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 32",
+            "authors": [
+                "Author 32"
+            ],
+            "short_description": "This is a short description for Sample Book 32.",
+            "page_count": 182,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "9a4501e9-7eeb-4494-895a-0855097704e6",
+        "Title": "Sample Book Title 33",
+        "Year": 2020,
+        "Price": 26.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 33",
+            "authors": [
+                "Author 33"
+            ],
+            "short_description": "This is a short description for Sample Book 33.",
+            "page_count": 183,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "2109a73c-2d09-46ab-8d00-443d2701ff7c",
+        "Title": "Sample Book Title 34",
+        "Year": 2020,
+        "Price": 27.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 34",
+            "authors": [
+                "Author 34"
+            ],
+            "short_description": "This is a short description for Sample Book 34.",
+            "page_count": 184,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "205ed6c9-3854-41f2-bb4b-bca04abe03ec",
+        "Title": "Sample Book Title 35",
+        "Year": 2020,
+        "Price": 27.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 35",
+            "authors": [
+                "Author 35"
+            ],
+            "short_description": "This is a short description for Sample Book 35.",
+            "page_count": 185,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "925a7004-1a43-4bbc-8b90-47f95e09580a",
+        "Title": "Sample Book Title 36",
+        "Year": 2020,
+        "Price": 28.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 36",
+            "authors": [
+                "Author 36"
+            ],
+            "short_description": "This is a short description for Sample Book 36.",
+            "page_count": 186,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "58c342d1-9570-48e3-b40a-4b5e2eaba6aa",
+        "Title": "Sample Book Title 37",
+        "Year": 2020,
+        "Price": 28.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 37",
+            "authors": [
+                "Author 37"
+            ],
+            "short_description": "This is a short description for Sample Book 37.",
+            "page_count": 187,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "a4b7fbf4-785c-4451-86f7-0428d02a1921",
+        "Title": "Sample Book Title 38",
+        "Year": 2020,
+        "Price": 29.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 38",
+            "authors": [
+                "Author 38"
+            ],
+            "short_description": "This is a short description for Sample Book 38.",
+            "page_count": 188,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "77f7b364-61d8-4ae3-b775-cdbe5b08b450",
+        "Title": "Sample Book Title 39",
+        "Year": 2020,
+        "Price": 29.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 39",
+            "authors": [
+                "Author 39"
+            ],
+            "short_description": "This is a short description for Sample Book 39.",
+            "page_count": 189,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "a6bb6788-7183-46b6-9eed-610517417bc6",
+        "Title": "Sample Book Title 40",
+        "Year": 2020,
+        "Price": 30.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 40",
+            "authors": [
+                "Author 40"
+            ],
+            "short_description": "This is a short description for Sample Book 40.",
+            "page_count": 190,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "c0ecbab5-e8ea-49e3-89d7-c9421a87c979",
+        "Title": "Sample Book Title 41",
+        "Year": 2020,
+        "Price": 30.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 41",
+            "authors": [
+                "Author 41"
+            ],
+            "short_description": "This is a short description for Sample Book 41.",
+            "page_count": 191,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "44403b46-35f2-4565-84d7-b2c25cf7b0df",
+        "Title": "Sample Book Title 42",
+        "Year": 2020,
+        "Price": 31.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 42",
+            "authors": [
+                "Author 42"
+            ],
+            "short_description": "This is a short description for Sample Book 42.",
+            "page_count": 192,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "f70835ec-4b85-42c0-95ee-919ddeedbb58",
+        "Title": "Sample Book Title 43",
+        "Year": 2020,
+        "Price": 31.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 43",
+            "authors": [
+                "Author 43"
+            ],
+            "short_description": "This is a short description for Sample Book 43.",
+            "page_count": 193,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "c80b3197-9052-435e-8a0a-22826b6e1346",
+        "Title": "Sample Book Title 44",
+        "Year": 2020,
+        "Price": 32.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 44",
+            "authors": [
+                "Author 44"
+            ],
+            "short_description": "This is a short description for Sample Book 44.",
+            "page_count": 194,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "c2dd5d3a-7a4f-4735-a61f-78dfb354d128",
+        "Title": "Sample Book Title 45",
+        "Year": 2020,
+        "Price": 32.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 45",
+            "authors": [
+                "Author 45"
+            ],
+            "short_description": "This is a short description for Sample Book 45.",
+            "page_count": 195,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "01ee5176-fb46-4c6c-9d20-2b0dde13fb87",
+        "Title": "Sample Book Title 46",
+        "Year": 2020,
+        "Price": 33.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 46",
+            "authors": [
+                "Author 46"
+            ],
+            "short_description": "This is a short description for Sample Book 46.",
+            "page_count": 196,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "81ea208f-c128-46c6-afbe-22b48dbe82e1",
+        "Title": "Sample Book Title 47",
+        "Year": 2020,
+        "Price": 33.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 47",
+            "authors": [
+                "Author 47"
+            ],
+            "short_description": "This is a short description for Sample Book 47.",
+            "page_count": 197,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "a409a40c-5a8f-475d-9ff6-e4bd027013a2",
+        "Title": "Sample Book Title 48",
+        "Year": 2020,
+        "Price": 34.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 48",
+            "authors": [
+                "Author 48"
+            ],
+            "short_description": "This is a short description for Sample Book 48.",
+            "page_count": 198,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "9c45d20b-d359-45bf-b048-2c6b7c1be97d",
+        "Title": "Sample Book Title 49",
+        "Year": 2020,
+        "Price": 34.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 49",
+            "authors": [
+                "Author 49"
+            ],
+            "short_description": "This is a short description for Sample Book 49.",
+            "page_count": 199,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "7306f82e-8db2-457c-bf8d-0e2d64a5bb24",
+        "Title": "Sample Book Title 50",
+        "Year": 2020,
+        "Price": 35.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 50",
+            "authors": [
+                "Author 50"
+            ],
+            "short_description": "This is a short description for Sample Book 50.",
+            "page_count": 200,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "d66708ce-8875-4ad6-8c4d-043dc1cda162",
+        "Title": "Sample Book Title 51",
+        "Year": 2020,
+        "Price": 35.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 51",
+            "authors": [
+                "Author 51"
+            ],
+            "short_description": "This is a short description for Sample Book 51.",
+            "page_count": 201,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "3d7315d7-c5aa-43a3-9e3b-f2dc773847a5",
+        "Title": "Sample Book Title 52",
+        "Year": 2020,
+        "Price": 36.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 52",
+            "authors": [
+                "Author 52"
+            ],
+            "short_description": "This is a short description for Sample Book 52.",
+            "page_count": 202,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "850e0d9b-47f6-4a75-98b2-eed57245dffc",
+        "Title": "Sample Book Title 53",
+        "Year": 2020,
+        "Price": 36.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 53",
+            "authors": [
+                "Author 53"
+            ],
+            "short_description": "This is a short description for Sample Book 53.",
+            "page_count": 203,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "187c93cb-057d-43f7-8f46-604bd4f2fdca",
+        "Title": "Sample Book Title 54",
+        "Year": 2020,
+        "Price": 37.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 54",
+            "authors": [
+                "Author 54"
+            ],
+            "short_description": "This is a short description for Sample Book 54.",
+            "page_count": 204,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "2524f85c-7e59-483f-b279-e97246aea6eb",
+        "Title": "Sample Book Title 55",
+        "Year": 2020,
+        "Price": 37.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 55",
+            "authors": [
+                "Author 55"
+            ],
+            "short_description": "This is a short description for Sample Book 55.",
+            "page_count": 205,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "a4c0af1e-ba4c-4680-ab35-bcffcdb152df",
+        "Title": "Sample Book Title 56",
+        "Year": 2020,
+        "Price": 38.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 56",
+            "authors": [
+                "Author 56"
+            ],
+            "short_description": "This is a short description for Sample Book 56.",
+            "page_count": 206,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "f542df42-acd5-4290-9d0f-ae1aeafe8de6",
+        "Title": "Sample Book Title 57",
+        "Year": 2020,
+        "Price": 38.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 57",
+            "authors": [
+                "Author 57"
+            ],
+            "short_description": "This is a short description for Sample Book 57.",
+            "page_count": 207,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "bddb7064-b572-400b-b219-0ff6fc41a528",
+        "Title": "Sample Book Title 58",
+        "Year": 2020,
+        "Price": 39.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 58",
+            "authors": [
+                "Author 58"
+            ],
+            "short_description": "This is a short description for Sample Book 58.",
+            "page_count": 208,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "adbf34ad-cbc3-4d38-9725-d1598b5d4bd1",
+        "Title": "Sample Book Title 59",
+        "Year": 2020,
+        "Price": 39.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 59",
+            "authors": [
+                "Author 59"
+            ],
+            "short_description": "This is a short description for Sample Book 59.",
+            "page_count": 209,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "ff3fc8bb-6e5c-47ea-9cdc-6989c94b5eae",
+        "Title": "Sample Book Title 60",
+        "Year": 2020,
+        "Price": 40.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 60",
+            "authors": [
+                "Author 60"
+            ],
+            "short_description": "This is a short description for Sample Book 60.",
+            "page_count": 210,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "72934d6d-8a8f-4313-a518-a0bab3e8f0c0",
+        "Title": "Sample Book Title 61",
+        "Year": 2020,
+        "Price": 40.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 61",
+            "authors": [
+                "Author 61"
+            ],
+            "short_description": "This is a short description for Sample Book 61.",
+            "page_count": 211,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "481b4d18-c4ef-4858-add2-b33e85c89af2",
+        "Title": "Sample Book Title 62",
+        "Year": 2020,
+        "Price": 41.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 62",
+            "authors": [
+                "Author 62"
+            ],
+            "short_description": "This is a short description for Sample Book 62.",
+            "page_count": 212,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "17adcb36-bfd4-4158-ba8e-c35d205bef05",
+        "Title": "Sample Book Title 63",
+        "Year": 2020,
+        "Price": 41.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 63",
+            "authors": [
+                "Author 63"
+            ],
+            "short_description": "This is a short description for Sample Book 63.",
+            "page_count": 213,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "e10b989c-5bac-4578-a0fb-d573e61e653e",
+        "Title": "Sample Book Title 64",
+        "Year": 2020,
+        "Price": 42.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 64",
+            "authors": [
+                "Author 64"
+            ],
+            "short_description": "This is a short description for Sample Book 64.",
+            "page_count": 214,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "4a5676f9-6e8c-4212-a112-c58d25dc093e",
+        "Title": "Sample Book Title 65",
+        "Year": 2020,
+        "Price": 42.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 65",
+            "authors": [
+                "Author 65"
+            ],
+            "short_description": "This is a short description for Sample Book 65.",
+            "page_count": 215,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "099a40da-ede0-48f0-a430-6ce4ed2c4220",
+        "Title": "Sample Book Title 66",
+        "Year": 2020,
+        "Price": 43.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 66",
+            "authors": [
+                "Author 66"
+            ],
+            "short_description": "This is a short description for Sample Book 66.",
+            "page_count": 216,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "6c7e632f-fd84-4c9d-bf37-904bdd8ff235",
+        "Title": "Sample Book Title 67",
+        "Year": 2020,
+        "Price": 43.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 67",
+            "authors": [
+                "Author 67"
+            ],
+            "short_description": "This is a short description for Sample Book 67.",
+            "page_count": 217,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "58dcebc4-8bae-44d4-b674-883fc2b23047",
+        "Title": "Sample Book Title 68",
+        "Year": 2020,
+        "Price": 44.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 68",
+            "authors": [
+                "Author 68"
+            ],
+            "short_description": "This is a short description for Sample Book 68.",
+            "page_count": 218,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "b1558a93-72b7-4403-aa11-c0022f17ebb4",
+        "Title": "Sample Book Title 69",
+        "Year": 2020,
+        "Price": 44.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 69",
+            "authors": [
+                "Author 69"
+            ],
+            "short_description": "This is a short description for Sample Book 69.",
+            "page_count": 219,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "d1d13338-4c4f-4788-8a2b-85b8de1f9651",
+        "Title": "Sample Book Title 70",
+        "Year": 2020,
+        "Price": 45.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 70",
+            "authors": [
+                "Author 70"
+            ],
+            "short_description": "This is a short description for Sample Book 70.",
+            "page_count": 220,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "78c9c35e-f966-4549-ae94-e85c8ca0ee0d",
+        "Title": "Sample Book Title 71",
+        "Year": 2020,
+        "Price": 45.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 71",
+            "authors": [
+                "Author 71"
+            ],
+            "short_description": "This is a short description for Sample Book 71.",
+            "page_count": 221,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "25a9983d-2aa9-4290-a154-ab4ff9b38e8f",
+        "Title": "Sample Book Title 72",
+        "Year": 2020,
+        "Price": 46.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 72",
+            "authors": [
+                "Author 72"
+            ],
+            "short_description": "This is a short description for Sample Book 72.",
+            "page_count": 222,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "1f8d78ca-0819-4d48-9210-b69e89617118",
+        "Title": "Sample Book Title 73",
+        "Year": 2020,
+        "Price": 46.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 73",
+            "authors": [
+                "Author 73"
+            ],
+            "short_description": "This is a short description for Sample Book 73.",
+            "page_count": 223,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "dfd51db4-3db0-4435-82f1-e303d6d32798",
+        "Title": "Sample Book Title 74",
+        "Year": 2020,
+        "Price": 47.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 74",
+            "authors": [
+                "Author 74"
+            ],
+            "short_description": "This is a short description for Sample Book 74.",
+            "page_count": 224,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "2afe5d54-1200-4a97-b5f7-f226472a9ae8",
+        "Title": "Sample Book Title 75",
+        "Year": 2020,
+        "Price": 47.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 75",
+            "authors": [
+                "Author 75"
+            ],
+            "short_description": "This is a short description for Sample Book 75.",
+            "page_count": 225,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "450072b3-6055-44d0-bab5-ffaa4d01aae8",
+        "Title": "Sample Book Title 76",
+        "Year": 2020,
+        "Price": 48.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 76",
+            "authors": [
+                "Author 76"
+            ],
+            "short_description": "This is a short description for Sample Book 76.",
+            "page_count": 226,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "ac5fe5c7-be57-4099-9c4e-cde8a5d4b49b",
+        "Title": "Sample Book Title 77",
+        "Year": 2020,
+        "Price": 48.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 77",
+            "authors": [
+                "Author 77"
+            ],
+            "short_description": "This is a short description for Sample Book 77.",
+            "page_count": 227,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "1302584f-b15f-4b25-9199-8d187f9d7f25",
+        "Title": "Sample Book Title 78",
+        "Year": 2020,
+        "Price": 49.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 78",
+            "authors": [
+                "Author 78"
+            ],
+            "short_description": "This is a short description for Sample Book 78.",
+            "page_count": 228,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "c4572826-5a5a-4e07-9e8c-0225676323e1",
+        "Title": "Sample Book Title 79",
+        "Year": 2020,
+        "Price": 49.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 79",
+            "authors": [
+                "Author 79"
+            ],
+            "short_description": "This is a short description for Sample Book 79.",
+            "page_count": 229,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "7477f9b8-d046-42b1-a158-90fb4c6387c2",
+        "Title": "Sample Book Title 80",
+        "Year": 2020,
+        "Price": 50.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 80",
+            "authors": [
+                "Author 80"
+            ],
+            "short_description": "This is a short description for Sample Book 80.",
+            "page_count": 230,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "64d72ae7-5eb7-476a-94bb-0187540364bc",
+        "Title": "Sample Book Title 81",
+        "Year": 2020,
+        "Price": 50.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 81",
+            "authors": [
+                "Author 81"
+            ],
+            "short_description": "This is a short description for Sample Book 81.",
+            "page_count": 231,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "02d6eb2c-3382-4b94-a23b-991390c0f0f0",
+        "Title": "Sample Book Title 82",
+        "Year": 2020,
+        "Price": 51.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 82",
+            "authors": [
+                "Author 82"
+            ],
+            "short_description": "This is a short description for Sample Book 82.",
+            "page_count": 232,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "cc451542-c70e-4905-b579-19649f370aed",
+        "Title": "Sample Book Title 83",
+        "Year": 2020,
+        "Price": 51.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 83",
+            "authors": [
+                "Author 83"
+            ],
+            "short_description": "This is a short description for Sample Book 83.",
+            "page_count": 233,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "d5fef7db-6cf4-4a78-9f29-e97ffc852cc5",
+        "Title": "Sample Book Title 84",
+        "Year": 2020,
+        "Price": 52.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 84",
+            "authors": [
+                "Author 84"
+            ],
+            "short_description": "This is a short description for Sample Book 84.",
+            "page_count": 234,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "761bf906-f636-46e1-82f5-23a2355b2ae7",
+        "Title": "Sample Book Title 85",
+        "Year": 2020,
+        "Price": 52.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 85",
+            "authors": [
+                "Author 85"
+            ],
+            "short_description": "This is a short description for Sample Book 85.",
+            "page_count": 235,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "07217560-20bf-47e7-a108-d094d67011c5",
+        "Title": "Sample Book Title 86",
+        "Year": 2020,
+        "Price": 53.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 86",
+            "authors": [
+                "Author 86"
+            ],
+            "short_description": "This is a short description for Sample Book 86.",
+            "page_count": 236,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "5f65f401-f966-458a-b134-1cf0b69c810c",
+        "Title": "Sample Book Title 87",
+        "Year": 2020,
+        "Price": 53.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 87",
+            "authors": [
+                "Author 87"
+            ],
+            "short_description": "This is a short description for Sample Book 87.",
+            "page_count": 237,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "d2603887-e1be-44f6-b471-68cba578ef34",
+        "Title": "Sample Book Title 88",
+        "Year": 2020,
+        "Price": 54.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 88",
+            "authors": [
+                "Author 88"
+            ],
+            "short_description": "This is a short description for Sample Book 88.",
+            "page_count": 238,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "9101f224-4b39-4d0f-aa61-aea7f9f8de86",
+        "Title": "Sample Book Title 89",
+        "Year": 2020,
+        "Price": 54.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 89",
+            "authors": [
+                "Author 89"
+            ],
+            "short_description": "This is a short description for Sample Book 89.",
+            "page_count": 239,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "6bb35413-062c-4ee0-87b3-81d4b4ccff51",
+        "Title": "Sample Book Title 90",
+        "Year": 2020,
+        "Price": 55.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 90",
+            "authors": [
+                "Author 90"
+            ],
+            "short_description": "This is a short description for Sample Book 90.",
+            "page_count": 240,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "4cbffb9a-14bf-48cd-bc72-cf25755cbb4e",
+        "Title": "Sample Book Title 91",
+        "Year": 2020,
+        "Price": 55.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 91",
+            "authors": [
+                "Author 91"
+            ],
+            "short_description": "This is a short description for Sample Book 91.",
+            "page_count": 241,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "42e79279-a341-4b9b-931a-8b002425d4c4",
+        "Title": "Sample Book Title 92",
+        "Year": 2020,
+        "Price": 56.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 92",
+            "authors": [
+                "Author 92"
+            ],
+            "short_description": "This is a short description for Sample Book 92.",
+            "page_count": 242,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "6c3e27fd-0f63-481c-9d56-5945bfec95ba",
+        "Title": "Sample Book Title 93",
+        "Year": 2020,
+        "Price": 56.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 93",
+            "authors": [
+                "Author 93"
+            ],
+            "short_description": "This is a short description for Sample Book 93.",
+            "page_count": 243,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "b1e8dbb0-baee-4c53-8bc9-31d139848e13",
+        "Title": "Sample Book Title 94",
+        "Year": 2020,
+        "Price": 57.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 94",
+            "authors": [
+                "Author 94"
+            ],
+            "short_description": "This is a short description for Sample Book 94.",
+            "page_count": 244,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "300d504e-69e0-41f1-b293-8d48effe441d",
+        "Title": "Sample Book Title 95",
+        "Year": 2020,
+        "Price": 57.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 95",
+            "authors": [
+                "Author 95"
+            ],
+            "short_description": "This is a short description for Sample Book 95.",
+            "page_count": 245,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "7f27b444-cb7c-46ad-b5df-4599f82fcb15",
+        "Title": "Sample Book Title 96",
+        "Year": 2020,
+        "Price": 58.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 96",
+            "authors": [
+                "Author 96"
+            ],
+            "short_description": "This is a short description for Sample Book 96.",
+            "page_count": 246,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "9b4dd7a1-c029-495b-b637-086772c31014",
+        "Title": "Sample Book Title 97",
+        "Year": 2020,
+        "Price": 58.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 97",
+            "authors": [
+                "Author 97"
+            ],
+            "short_description": "This is a short description for Sample Book 97.",
+            "page_count": 247,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "7e5341c6-218a-4a3c-905b-be9b25edecb6",
+        "Title": "Sample Book Title 98",
+        "Year": 2020,
+        "Price": 59.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 98",
+            "authors": [
+                "Author 98"
+            ],
+            "short_description": "This is a short description for Sample Book 98.",
+            "page_count": 248,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    },
+    {
+        "ISBN": "9a70202e-4789-4f7b-8ab1-22c8ec7f2c9e",
+        "Title": "Sample Book Title 99",
+        "Year": 2020,
+        "Price": 59.5,
+        "Info": {
+            "subtitle": "Sample Subtitle 99",
+            "authors": [
+                "Author 99"
+            ],
+            "short_description": "This is a short description for Sample Book 99.",
+            "page_count": 249,
+            "categories": [
+                "Non-Fiction",
+                "Self-Help"
+            ]
+        }
+    },
+    {
+        "ISBN": "093b3382-e110-4ce3-9576-6c676d579bca",
+        "Title": "Sample Book Title 100",
+        "Year": 2020,
+        "Price": 60.0,
+        "Info": {
+            "subtitle": "Sample Subtitle 100",
+            "authors": [
+                "Author 100"
+            ],
+            "short_description": "This is a short description for Sample Book 100.",
+            "page_count": 250,
+            "categories": [
+                "Fiction",
+                "Adventure"
+            ]
+        }
+    }
+]
